@@ -1,0 +1,10 @@
+{
+  "exponentServerPort": 19000,
+  "packagerPort": null,
+  "packagerPid": null,
+  "exponentServerNgrokUrl": "https://aw-kzj.alok-zk.client.exp.direct",
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
+  "expoServerPort": null,
+  "expoServerNgrokUrl": null
+}
